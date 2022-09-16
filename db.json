@@ -47,19 +47,22 @@
 				"id": "1",
 				"name": "Front-end developer",
 				"date": "Feb 2018 - Current",
-				"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+				"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+				"image": "https://cdn.pixabay.com/photo/2014/04/03/10/50/adidas-311450_960_720.png"
 			},
 			{
 				"id": "2",
 				"name": "Full-stack developer",
 				"date": "Feb 2019 - Current",
-				"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+				"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+				"image": "https://cdn.pixabay.com/photo/2014/08/02/10/07/google-408194_960_720.png"
 			},
 			{
 				"id": "3",
 				"name": "Junior developer",
 				"date": "Feb 2015 - Current",
-				"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+				"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+				"image": "https://cdn.pixabay.com/photo/2021/12/06/13/48/visa-6850402_960_720.png"
 			}
 		],
 		"projects": {
@@ -69,19 +72,22 @@
 					"id": "1",
 					"name": "Blog de recetas",
 					"tags": "#HTML #CSS #responsive",
-					"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+					"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+					"image": "https://cdn.pixabay.com/photo/2016/08/17/04/39/template-1599663_960_720.png"
 				},
 				{
 					"id": "2",
 					"name": "Galeria",
 					"tags": "#HTML #CSS #responsive",
-					"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+					"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+					"image" : "https://cdn.pixabay.com/photo/2016/09/13/11/08/browser-1666995_960_720.png"
 				},
 				{
 					"id": "3",
 					"name": "Tienda",
 					"tags": "#HTML #CSS #responsive",
-					"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+					"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+					"image" : "https://cdn.pixabay.com/photo/2020/07/30/08/54/online-store-5449799_960_720.png"
 				}
 			]
 		},
@@ -89,17 +95,20 @@
 			{
 				"id": "1",
 				"name": "Gaming",
-				"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+				"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+				"image": "https://cdn.pixabay.com/photo/2017/03/18/16/42/video-game-2154473_960_720.png"
 			},
 			{
 				"id": "2",
 				"name": "Cooking",
-				"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+				"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+				"image" :"https://cdn.pixabay.com/photo/2016/04/01/09/52/cartoon-1299636_960_720.png"
 			},
 			{
 				"id": "3",
 				"name": "Biking",
-				"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+				"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+				"image" : "https://cdn.pixabay.com/photo/2017/01/31/14/44/bicycle-2024675_960_720.png"
 			}
 		],
 		"blog": {
