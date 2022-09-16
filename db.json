@@ -119,7 +119,8 @@
 					"title": "Blog",
 					"subTitle": "How to organize your CSS",
 					"description": "In this article I tell the story about Proin eu justo sit amet lacus bibendum tincidunt. Vivamus non volutpat nisl, a luctus mi. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
-					"url": "www.google.com"
+					"url": "www.google.com",
+					"image": "https://cdn.pixabay.com/photo/2019/07/16/18/18/frontend-4342425_960_720.png"
 				}
 			]
 		}
