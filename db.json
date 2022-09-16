@@ -1,0 +1,118 @@
+{
+	"user": {
+		"personalInfo": {
+			"imageProfile": "https://pps.whatsapp.net/v/t61.24694-24/170511994_138089818923711_9213863667394382750_n.jpg?ccb=11-4&oh=01_AVwifxwBJmQgkiQCLMsHWFguDsKxwYg1vGkOCtYVqJWiRA&oe=6327EF48",
+			"name": "Billy Pearon",
+			"job": "Front-end developer",
+			"email": "billy@example.com",
+			"number": "(+603) 546624342",
+			"description": "Self-motivatede developer whi is willing"
+		},
+		"skills": [
+			{
+				"id": "1",
+				"title": "FRONT END",
+				"skill": [
+					{
+						"id": "1",
+						"name": "React",
+						"porcentage": 20
+					},
+					{
+						"id": "2",
+						"name": "Javascript",
+						"porcentage": 30
+					}
+				]
+			},
+			{
+				"id": "2",
+				"title": "DESING",
+				"skill": [
+					{
+						"id": "1",
+						"name": "Figma",
+						"porcentage": 50
+					},
+					{
+						"id": "2",
+						"name": "Photoshop",
+						"porcentage": 50
+					}
+				]
+			}
+		],
+		"experiences": [
+			{
+				"id": "1",
+				"name": "Front-end developer",
+				"date": "Feb 2018 - Current",
+				"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+			},
+			{
+				"id": "2",
+				"name": "Full-stack developer",
+				"date": "Feb 2019 - Current",
+				"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+			},
+			{
+				"id": "3",
+				"name": "Junior developer",
+				"date": "Feb 2015 - Current",
+				"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+			}
+		],
+		"projects": {
+			"amount": 3,
+			"project": [
+				{
+					"id": "1",
+					"name": "Blog de recetas",
+					"tags": "#HTML #CSS #responsive",
+					"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+				},
+				{
+					"id": "2",
+					"name": "Galeria",
+					"tags": "#HTML #CSS #responsive",
+					"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+				},
+				{
+					"id": "3",
+					"name": "Tienda",
+					"tags": "#HTML #CSS #responsive",
+					"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+				}
+			]
+		},
+		"hobbies": [
+			{
+				"id": "1",
+				"name": "Gaming",
+				"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+			},
+			{
+				"id": "2",
+				"name": "Cooking",
+				"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+			},
+			{
+				"id": "3",
+				"name": "Biking",
+				"description": "Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie."
+			}
+		],
+		"blog": {
+			"amount": 1,
+			"creations": [
+				{
+					"id": "1",
+					"title": "Blog",
+					"subTitle": "How to organize your CSS",
+					"description": "In this article I tell the story about Proin eu justo sit amet lacus bibendum tincidunt. Vivamus non volutpat nisl, a luctus mi. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
+					"url": "www.google.com"
+				}
+			]
+		}
+	}
+}
